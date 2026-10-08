@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "apkUrl": "https://github.com/Zi-exa/sunan-notifier-releases/releases/download/v1.0.1/app-release.apk",
+  "version": "1.1.0",
+  "apkUrl": "https://github.com/Zi-exa/sunan-notifier-releases/releases/download/v1.1.0/app-release.apk",
   "title": "Update aplikasi tersedia",
-  "notes": "Perbaikan update in-app dan stabilisasi build release lokal.",
+  "notes": "Notifikasi materi baru SUNAN, sapaan sesuai waktu, dan update besar langsung dari aplikasi.",
   "mandatory": false
 }
